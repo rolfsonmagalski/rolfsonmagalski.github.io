@@ -8,7 +8,7 @@
       <link href="/2025/06/01/%E6%B5%8B%E8%AF%95%E5%B8%96%E5%AD%90/"/>
       <url>/2025/06/01/%E6%B5%8B%E8%AF%95%E5%B8%96%E5%AD%90/</url>
       
-        <content type="html"><![CDATA[<div class="video-container"><source+src%3D"https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Frolfsonmagalski%2FAAA%2Fa%2F202506011704702.mp4"+type%3D"video%2Fmp4"></div><style><video controls width="640" height="360">  <source src="https://cdn.jsdelivr.net/gh/rolfsonmagalski/AAA/a/202506011704702.mp4" type="video/mp4">  </video></style>]]></content>
+        <content type="html"><![CDATA[<div class="video-container">  <video controls width="640" height="360">    <source src="https://cdn.jsdelivr.net/gh/rolfsonmagalski/AAA/a/202506011704702.mp4" type="video/mp4">  </video></div><style>.video-container {  max-width: 100%;  text-align: center;  margin: 20px 0;}video {  max-width: 100%;  height: auto;  border: 1px solid #ccc;  border-radius: 8px;}</style>]]></content>
       
       
       
